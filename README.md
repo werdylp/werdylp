@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm werdy</h1>
 <h3 align="center">Cat and music lover!</h3>
 
