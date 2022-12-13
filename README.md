@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm werdy</h1>
 <h3 align="center">Cat and music lover!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=werdylp&label=Profile%20views&color=f9f06b&style=plastic" alt="werdylp" /> </p>
+
 - 🔭 I’m currently working on [Axolotl Web](https://github.com/werdylp/AxolotlWeb)
 
 - 📝 I iregularly write articles on [https://blog.lets-study.cz/](https://blog.lets-study.cz/)
@@ -16,5 +18,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=werdylp&theme=dark" alt="werdylp" /></p>
 
