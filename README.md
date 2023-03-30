@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Axolotl Web](https://github.com/werdylp/AxolotlWeb)
 
-- 📝 I iregularly write articles on [https://blog.lets-study.cz/](https://blog.lets-study.cz/)
+- 📝 I irregularly write articles on [https://blog.lets-study.cz/](https://blog.lets-study.cz/)
 
 - ⚡ Fun fact **I'm gay**
 
